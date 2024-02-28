@@ -1,12 +1,18 @@
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gerardo-montini/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Btu9O43UORIKFOK6HOBo3IA%3D%3D) 
 
-# Tutorial de Calculadora en JavaScript
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gerardo Montini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gerardo Montini&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardo Montini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Link para ver resultado: [CALCULADORA TRABAJO TERMINADO](https://calculadora-tutorial-js.netlify.app/)
+---
+[![](https://visitcount.itsvg.in/api?id=Gerardo Montini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Este es un tutorial que te guiará a través del proceso de creación de una calculadora utilizando JavaScript. El código HTML y CSS necesario para la interfaz de la calculadora estará disponible en el repositorio, por lo que nos centraremos en explicar el funcionamiento del código JavaScript a continuación.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Funciones Principales
 
